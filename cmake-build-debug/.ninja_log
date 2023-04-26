@@ -1,0 +1,7 @@
+# ninja log v5
+3	515	6914093899171031	CMakeFiles/Lab02_Emil.dir/src/Map/Map.cpp.obj	fac868abaa026691
+1264	1404	6915208310267283	Lab02_Emil.exe	8ea69c3fb5090683
+1	176	7042047597796471	build.ninja	8c91dd2546929441
+4	1206	6915181283763247	CMakeFiles/Lab02_Emil.dir/src/Units/Knight.cpp.obj	3a6c2beb7e81fedd
+4	1263	6915208308927413	CMakeFiles/Lab02_Emil.dir/src/main/main.cpp.obj	e88d3925fc19d6d2
+5	1065	6915197246082065	CMakeFiles/Lab02_Emil.dir/src/Units/Archer.cpp.obj	80cda6da6fb26db7
